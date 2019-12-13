@@ -1,0 +1,3 @@
+[
+{"458": [{"ticker_id": 43422, "pair": "LINK/USDT", "price": 2.6828, "volume_percentage": 44.42682228285737, "rank": 1}, {"ticker_id": 31381, "pair": "BTC/USDT", "price": 9346.4, "volume_percentage": 36.12385273056704, "rank": 2}, {"ticker_id": 31384, "pair": "ETH/USDT", "price": 187.11, "volume_percentage": 9.356307812797445, "rank": 3}, {"ticker_id": 31382, "pair": "EOS/USDT", "price": 3.35, "volume_percentage": 7.6126178383357, "rank": 4}, {"ticker_id": 42163, "pair": "OKB/USDT", "price": 2.9733, "volume_percentage": 2.134802673488855, "rank": 5}, {"ticker_id": 31383, "pair": "ELF/USDT", "price": 0.0887, "volume_percentage": 0.31277699158749767, "rank": 6}]}
+]

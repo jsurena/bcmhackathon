@@ -1,0 +1,1672 @@
+[
+    {
+        "490": [
+            {
+                "ticker_id": 41970,
+                "pair": "BTC/KRW",
+                "price": 10856000,
+                "volume_percentage": 18.466785078208538,
+                "rank": 1
+            },
+            {
+                "ticker_id": 41971,
+                "pair": "ETH/KRW",
+                "price": 216400,
+                "volume_percentage": 10.38707490622195,
+                "rank": 2
+            },
+            {
+                "ticker_id": 41973,
+                "pair": "XRP/BTC",
+                "price": 0.00003205,
+                "volume_percentage": 9.323856615172275,
+                "rank": 3
+            },
+            {
+                "ticker_id": 42076,
+                "pair": "BCH/KRW",
+                "price": 333400,
+                "volume_percentage": 7.710374149011287,
+                "rank": 4
+            },
+            {
+                "ticker_id": 41975,
+                "pair": "BSV/KRW",
+                "price": 162000,
+                "volume_percentage": 5.522317958888746,
+                "rank": 5
+            },
+            {
+                "ticker_id": 41976,
+                "pair": "EOS/KRW",
+                "price": 3879,
+                "volume_percentage": 4.574452023814035,
+                "rank": 6
+            },
+            {
+                "ticker_id": 41972,
+                "pair": "ETH/BTC",
+                "price": 0.02001,
+                "volume_percentage": 4.0005372737643246,
+                "rank": 7
+            },
+            {
+                "ticker_id": 42077,
+                "pair": "BCH/BTC",
+                "price": 0.03066,
+                "volume_percentage": 3.804707937610901,
+                "rank": 8
+            },
+            {
+                "ticker_id": 42120,
+                "pair": "BTC/USDT",
+                "price": 9347.2,
+                "volume_percentage": 3.750790827117651,
+                "rank": 9
+            },
+            {
+                "ticker_id": 42078,
+                "pair": "BCH/USDT",
+                "price": 286.64,
+                "volume_percentage": 3.0164227762793687,
+                "rank": 10
+            },
+            {
+                "ticker_id": 42063,
+                "pair": "TRX/USDT",
+                "price": 0.02146,
+                "volume_percentage": 2.9651672110357246,
+                "rank": 11
+            },
+            {
+                "ticker_id": 41978,
+                "pair": "TRX/BTC",
+                "price": 0.000002295,
+                "volume_percentage": 2.658208315504874,
+                "rank": 12
+            },
+            {
+                "ticker_id": 41974,
+                "pair": "EOS/BTC",
+                "price": 0.0003583,
+                "volume_percentage": 2.62729585233496,
+                "rank": 13
+            },
+            {
+                "ticker_id": 42046,
+                "pair": "XRP/USDT",
+                "price": 0.2995,
+                "volume_percentage": 2.621000470662859,
+                "rank": 14
+            },
+            {
+                "ticker_id": 41977,
+                "pair": "LTC/BTC",
+                "price": 0.006328,
+                "volume_percentage": 1.7731449924431795,
+                "rank": 15
+            },
+            {
+                "ticker_id": 41980,
+                "pair": "AUTO/KRW",
+                "price": 0.68,
+                "volume_percentage": 1.602767857675708,
+                "rank": 16
+            },
+            {
+                "ticker_id": 42064,
+                "pair": "ETH/USDT",
+                "price": 187.05,
+                "volume_percentage": 1.4248554995242355,
+                "rank": 17
+            },
+            {
+                "ticker_id": 42049,
+                "pair": "EOS/USDT",
+                "price": 3.351,
+                "volume_percentage": 1.2466233718151647,
+                "rank": 18
+            },
+            {
+                "ticker_id": 42080,
+                "pair": "ETC/BTC",
+                "price": 0.000522,
+                "volume_percentage": 1.1085856832828844,
+                "rank": 19
+            },
+            {
+                "ticker_id": 41983,
+                "pair": "XRP/ETH",
+                "price": 0.001601,
+                "volume_percentage": 0.7719935591928525,
+                "rank": 20
+            },
+            {
+                "ticker_id": 41988,
+                "pair": "QTUM/BTC",
+                "price": 0.000244,
+                "volume_percentage": 0.7600638161574567,
+                "rank": 21
+            },
+            {
+                "ticker_id": 42061,
+                "pair": "LTC/USDT",
+                "price": 59.14,
+                "volume_percentage": 0.7473490944747198,
+                "rank": 22
+            },
+            {
+                "ticker_id": 42082,
+                "pair": "HYC/KRW",
+                "price": 5.4,
+                "volume_percentage": 0.7094489696649147,
+                "rank": 23
+            },
+            {
+                "ticker_id": 42045,
+                "pair": "QTUM/USDT",
+                "price": 2.28,
+                "volume_percentage": 0.7072770905619618,
+                "rank": 24
+            },
+            {
+                "ticker_id": 41995,
+                "pair": "NEO/BTC",
+                "price": 0.001125,
+                "volume_percentage": 0.6967129925311604,
+                "rank": 25
+            },
+            {
+                "ticker_id": 42355,
+                "pair": "AMON/KRW",
+                "price": 2.9,
+                "volume_percentage": 0.5950361955204668,
+                "rank": 26
+            },
+            {
+                "ticker_id": 41979,
+                "pair": "BSV/BTC",
+                "price": 0.014887,
+                "volume_percentage": 0.5687894217280466,
+                "rank": 27
+            },
+            {
+                "ticker_id": 42051,
+                "pair": "NEO/USDT",
+                "price": 10.51,
+                "volume_percentage": 0.5148829003129451,
+                "rank": 28
+            },
+            {
+                "ticker_id": 41981,
+                "pair": "XRP/KRW",
+                "price": 346,
+                "volume_percentage": 0.5061734934520514,
+                "rank": 29
+            },
+            {
+                "ticker_id": 41985,
+                "pair": "PMA/KRW",
+                "price": 0.3,
+                "volume_percentage": 0.46184322154109103,
+                "rank": 30
+            },
+            {
+                "ticker_id": 42055,
+                "pair": "XLM/USDT",
+                "price": 0.0664,
+                "volume_percentage": 0.44314658526017775,
+                "rank": 31
+            },
+            {
+                "ticker_id": 41984,
+                "pair": "TRX/ETH",
+                "price": 0.0001148,
+                "volume_percentage": 0.35283188460673615,
+                "rank": 32
+            },
+            {
+                "ticker_id": 42050,
+                "pair": "ADA/USDT",
+                "price": 0.0427,
+                "volume_percentage": 0.35210022880339453,
+                "rank": 33
+            },
+            {
+                "ticker_id": 42079,
+                "pair": "ETC/USDT",
+                "price": 4.878,
+                "volume_percentage": 0.27310408649753926,
+                "rank": 34
+            },
+            {
+                "ticker_id": 42070,
+                "pair": "OMG/USDT",
+                "price": 1.07,
+                "volume_percentage": 0.2607283477665929,
+                "rank": 35
+            },
+            {
+                "ticker_id": 41986,
+                "pair": "QTUM/KRW",
+                "price": 2640,
+                "volume_percentage": 0.24020102194351592,
+                "rank": 36
+            },
+            {
+                "ticker_id": 42043,
+                "pair": "ZIL/USDT",
+                "price": 0.00553,
+                "volume_percentage": 0.23736090961319667,
+                "rank": 37
+            },
+            {
+                "ticker_id": 41982,
+                "pair": "EOS/ETH",
+                "price": 0.01792,
+                "volume_percentage": 0.17229709708665267,
+                "rank": 38
+            },
+            {
+                "ticker_id": 42081,
+                "pair": "ETC/KRW",
+                "price": 5680,
+                "volume_percentage": 0.14107058470388942,
+                "rank": 39
+            },
+            {
+                "ticker_id": 41991,
+                "pair": "ADA/BTC",
+                "price": 0.00000458,
+                "volume_percentage": 0.13956972235391604,
+                "rank": 40
+            },
+            {
+                "ticker_id": 42083,
+                "pair": "HYC/BTC",
+                "price": 4.9e-7,
+                "volume_percentage": 0.11749944817734474,
+                "rank": 41
+            },
+            {
+                "ticker_id": 41993,
+                "pair": "OMG/KRW",
+                "price": 1250,
+                "volume_percentage": 0.11220520783737466,
+                "rank": 42
+            },
+            {
+                "ticker_id": 41997,
+                "pair": "TUSD/BTC",
+                "price": 0.0001068,
+                "volume_percentage": 0.10505238275842477,
+                "rank": 43
+            },
+            {
+                "ticker_id": 42088,
+                "pair": "KNC/KRW",
+                "price": 212,
+                "volume_percentage": 0.09913411866906534,
+                "rank": 44
+            },
+            {
+                "ticker_id": 42008,
+                "pair": "NEO/ETH",
+                "price": 0.0563,
+                "volume_percentage": 0.08934996311299863,
+                "rank": 45
+            },
+            {
+                "ticker_id": 42003,
+                "pair": "TRX/KRW",
+                "price": 24.7,
+                "volume_percentage": 0.08814488252151836,
+                "rank": 46
+            },
+            {
+                "ticker_id": 41999,
+                "pair": "PAX/BTC",
+                "price": 0.0001068,
+                "volume_percentage": 0.08005408601261561,
+                "rank": 47
+            },
+            {
+                "ticker_id": 42004,
+                "pair": "OMG/BTC",
+                "price": 0.0001142,
+                "volume_percentage": 0.07720576839665814,
+                "rank": 48
+            },
+            {
+                "ticker_id": 41996,
+                "pair": "LTC/KRW",
+                "price": 68570,
+                "volume_percentage": 0.06903614834071098,
+                "rank": 49
+            },
+            {
+                "ticker_id": 42086,
+                "pair": "BWX/KRW",
+                "price": 57,
+                "volume_percentage": 0.06127735146757994,
+                "rank": 50
+            },
+            {
+                "ticker_id": 42111,
+                "pair": "ETC/ETH",
+                "price": 0.02608,
+                "volume_percentage": 0.05883087610058734,
+                "rank": 51
+            },
+            {
+                "ticker_id": 42014,
+                "pair": "XEM/KRW",
+                "price": 47,
+                "volume_percentage": 0.056495122702471375,
+                "rank": 52
+            },
+            {
+                "ticker_id": 42007,
+                "pair": "ARDR/BTC",
+                "price": 0.00000591,
+                "volume_percentage": 0.05584085751625204,
+                "rank": 53
+            },
+            {
+                "ticker_id": 41989,
+                "pair": "XLM/BTC",
+                "price": 0.0000071,
+                "volume_percentage": 0.05373213819773739,
+                "rank": 54
+            },
+            {
+                "ticker_id": 42102,
+                "pair": "GNX/BTC",
+                "price": 0.00000125,
+                "volume_percentage": 0.05261618656134847,
+                "rank": 55
+            },
+            {
+                "ticker_id": 42002,
+                "pair": "ELF/KRW",
+                "price": 102,
+                "volume_percentage": 0.04644315356637345,
+                "rank": 56
+            },
+            {
+                "ticker_id": 42006,
+                "pair": "DASH/BTC",
+                "price": 0.00778,
+                "volume_percentage": 0.042768955046303854,
+                "rank": 57
+            },
+            {
+                "ticker_id": 41990,
+                "pair": "LTC/ETH",
+                "price": 0.3164,
+                "volume_percentage": 0.04068128021019586,
+                "rank": 58
+            },
+            {
+                "ticker_id": 41998,
+                "pair": "ZRX/BTC",
+                "price": 0.0000301,
+                "volume_percentage": 0.040339953772567334,
+                "rank": 59
+            },
+            {
+                "ticker_id": 42097,
+                "pair": "BTT/KRW",
+                "price": 0.52,
+                "volume_percentage": 0.03293962386113205,
+                "rank": 60
+            },
+            {
+                "ticker_id": 42010,
+                "pair": "XLM/ETH",
+                "price": 0.000356,
+                "volume_percentage": 0.03190010937451511,
+                "rank": 61
+            },
+            {
+                "ticker_id": 42634,
+                "pair": "ZIL/BTC",
+                "price": 5.9e-7,
+                "volume_percentage": 0.030896634513604075,
+                "rank": 62
+            },
+            {
+                "ticker_id": 42148,
+                "pair": "TUSD/USDT",
+                "price": 0.9991,
+                "volume_percentage": 0.0279737096801504,
+                "rank": 63
+            },
+            {
+                "ticker_id": 42087,
+                "pair": "KNC/USDT",
+                "price": 0.18,
+                "volume_percentage": 0.02787058332638053,
+                "rank": 64
+            },
+            {
+                "ticker_id": 42066,
+                "pair": "ZRX/USDT",
+                "price": 0.282,
+                "volume_percentage": 0.024519587338837374,
+                "rank": 65
+            },
+            {
+                "ticker_id": 42001,
+                "pair": "XLM/KRW",
+                "price": 73,
+                "volume_percentage": 0.022090452655345545,
+                "rank": 66
+            },
+            {
+                "ticker_id": 42015,
+                "pair": "EGT/BTC",
+                "price": 2.53e-7,
+                "volume_percentage": 0.021256354985574676,
+                "rank": 67
+            },
+            {
+                "ticker_id": 42125,
+                "pair": "PAX/USDT",
+                "price": 0.9982,
+                "volume_percentage": 0.01987530132045245,
+                "rank": 68
+            },
+            {
+                "ticker_id": 42092,
+                "pair": "BTM/USDT",
+                "price": 0.111,
+                "volume_percentage": 0.01726648910885828,
+                "rank": 69
+            },
+            {
+                "ticker_id": 42067,
+                "pair": "GNT/USDT",
+                "price": 0.0474,
+                "volume_percentage": 0.016190447243611277,
+                "rank": 70
+            },
+            {
+                "ticker_id": 42091,
+                "pair": "BTM/BTC",
+                "price": 0.00001182,
+                "volume_percentage": 0.01446781614886136,
+                "rank": 71
+            },
+            {
+                "ticker_id": 42404,
+                "pair": "HPB/BTC",
+                "price": 0.0000219,
+                "volume_percentage": 0.012838034681854073,
+                "rank": 72
+            },
+            {
+                "ticker_id": 41994,
+                "pair": "DASH/KRW",
+                "price": 87500,
+                "volume_percentage": 0.011973934924351726,
+                "rank": 73
+            },
+            {
+                "ticker_id": 42000,
+                "pair": "NPXS/KRW",
+                "price": 0.23,
+                "volume_percentage": 0.01146429174855901,
+                "rank": 74
+            },
+            {
+                "ticker_id": 42021,
+                "pair": "AUTO/ETH",
+                "price": 0.00000307,
+                "volume_percentage": 0.008221344180655794,
+                "rank": 75
+            },
+            {
+                "ticker_id": 42089,
+                "pair": "KNC/BTC",
+                "price": 0.0000192,
+                "volume_percentage": 0.007211435634587657,
+                "rank": 76
+            },
+            {
+                "ticker_id": 42058,
+                "pair": "BSV/USDT",
+                "price": 138.92,
+                "volume_percentage": 0.0068584297554131314,
+                "rank": 77
+            },
+            {
+                "ticker_id": 42013,
+                "pair": "QTUM/ETH",
+                "price": 0.0122,
+                "volume_percentage": 0.0062843964069640885,
+                "rank": 78
+            },
+            {
+                "ticker_id": 42030,
+                "pair": "OMG/ETH",
+                "price": 0.00572,
+                "volume_percentage": 0.00627488603462422,
+                "rank": 79
+            },
+            {
+                "ticker_id": 42084,
+                "pair": "HYC/ETH",
+                "price": 0.0000245,
+                "volume_percentage": 0.005274258018703976,
+                "rank": 80
+            },
+            {
+                "ticker_id": 42027,
+                "pair": "DENT/KRW",
+                "price": 0.3,
+                "volume_percentage": 0.0051927418982862465,
+                "rank": 81
+            },
+            {
+                "ticker_id": 42144,
+                "pair": "PAY/BTC",
+                "price": 0.0000084,
+                "volume_percentage": 0.004248723680573617,
+                "rank": 82
+            },
+            {
+                "ticker_id": 42137,
+                "pair": "STC/USDT",
+                "price": 0.005579,
+                "volume_percentage": 0.004067422782815993,
+                "rank": 83
+            },
+            {
+                "ticker_id": 42101,
+                "pair": "ORS/BTC",
+                "price": 0.000002852,
+                "volume_percentage": 0.0038229759847142864,
+                "rank": 84
+            },
+            {
+                "ticker_id": 42036,
+                "pair": "GNT/BTC",
+                "price": 0.000005,
+                "volume_percentage": 0.003155169780348091,
+                "rank": 85
+            },
+            {
+                "ticker_id": 42012,
+                "pair": "DASH/ETH",
+                "price": 0.389,
+                "volume_percentage": 0.0030202977227389983,
+                "rank": 86
+            },
+            {
+                "ticker_id": 42276,
+                "pair": "EGT/ETH",
+                "price": 0.0000125,
+                "volume_percentage": 0.002934579689889714,
+                "rank": 87
+            },
+            {
+                "ticker_id": 42158,
+                "pair": "MIOTA/KRW",
+                "price": 322,
+                "volume_percentage": 0.002307181426049926,
+                "rank": 88
+            },
+            {
+                "ticker_id": 42085,
+                "pair": "HYC/USDT",
+                "price": 0.00457,
+                "volume_percentage": 0.0021904380835319807,
+                "rank": 89
+            },
+            {
+                "ticker_id": 42011,
+                "pair": "ZRX/ETH",
+                "price": 0.00151,
+                "volume_percentage": 0.0018804558841738414,
+                "rank": 90
+            },
+            {
+                "ticker_id": 42023,
+                "pair": "USDC/BTC",
+                "price": 0.000107,
+                "volume_percentage": 0.0016929964816666267,
+                "rank": 91
+            },
+            {
+                "ticker_id": 42129,
+                "pair": "NAS/USDT",
+                "price": 0.585,
+                "volume_percentage": 0.0013154085827145126,
+                "rank": 92
+            },
+            {
+                "ticker_id": 42005,
+                "pair": "ADA/ETH",
+                "price": 0.000229,
+                "volume_percentage": 0.0007090581296902577,
+                "rank": 93
+            },
+            {
+                "ticker_id": 42157,
+                "pair": "MIOTA/ETH",
+                "price": 0.0015,
+                "volume_percentage": 0.0006645515735912196,
+                "rank": 94
+            },
+            {
+                "ticker_id": 42289,
+                "pair": "ORS/USDT",
+                "price": 0.02686,
+                "volume_percentage": 0.0006471861786712811,
+                "rank": 95
+            },
+            {
+                "ticker_id": 42286,
+                "pair": "LIGHT/USDT",
+                "price": 0.0000123,
+                "volume_percentage": 0.0004234047621039823,
+                "rank": 96
+            },
+            {
+                "ticker_id": 42400,
+                "pair": "SSC/USDT",
+                "price": 0.00309,
+                "volume_percentage": 0.0004171740796612495,
+                "rank": 97
+            },
+            {
+                "ticker_id": 42062,
+                "pair": "PAY/USDT",
+                "price": 0.0779,
+                "volume_percentage": 0.0003886255689729383,
+                "rank": 98
+            },
+            {
+                "ticker_id": 42143,
+                "pair": "BTT/ETH",
+                "price": 0.00000256,
+                "volume_percentage": 0.0003607340957535375,
+                "rank": 99
+            },
+            {
+                "ticker_id": 42116,
+                "pair": "MDT/BTC",
+                "price": 0.000001449,
+                "volume_percentage": 0.0003546059762546973,
+                "rank": 100
+            },
+            {
+                "ticker_id": 42154,
+                "pair": "MDT/USDT",
+                "price": 0.013528,
+                "volume_percentage": 0.000350607537316104,
+                "rank": 101
+            },
+            {
+                "ticker_id": 42020,
+                "pair": "DGB/BTC",
+                "price": 8e-7,
+                "volume_percentage": 0.00028511820349959484,
+                "rank": 102
+            },
+            {
+                "ticker_id": 42094,
+                "pair": "STC/BTC",
+                "price": 6e-7,
+                "volume_percentage": 0.00020366229932122326,
+                "rank": 103
+            },
+            {
+                "ticker_id": 42126,
+                "pair": "USDC/USDT",
+                "price": 0.9994,
+                "volume_percentage": 0.00018135896208089735,
+                "rank": 104
+            },
+            {
+                "ticker_id": 43747,
+                "pair": "DGB/ETH",
+                "price": 0.00004,
+                "volume_percentage": 0.0001642100578482467,
+                "rank": 105
+            },
+            {
+                "ticker_id": 42432,
+                "pair": "CTXC/BTC",
+                "price": 0.0000079,
+                "volume_percentage": 0.00014182610277143896,
+                "rank": 106
+            },
+            {
+                "ticker_id": 42433,
+                "pair": "CIC/BTC",
+                "price": 8.55e-8,
+                "volume_percentage": 0.0001276642897034126,
+                "rank": 107
+            },
+            {
+                "ticker_id": 42284,
+                "pair": "RFR/BTC",
+                "price": 8.9e-8,
+                "volume_percentage": 0.00010961457459522139,
+                "rank": 108
+            },
+            {
+                "ticker_id": 42402,
+                "pair": "HPB/USDT",
+                "price": 0.2032,
+                "volume_percentage": 0.00010877932592953405,
+                "rank": 109
+            },
+            {
+                "ticker_id": 42019,
+                "pair": "ELF/BTC",
+                "price": 0.0000095,
+                "volume_percentage": 0.00008262550655507985,
+                "rank": 110
+            },
+            {
+                "ticker_id": 42280,
+                "pair": "ORS/ETH",
+                "price": 0.0001415,
+                "volume_percentage": 0.00004453787776556768,
+                "rank": 111
+            },
+            {
+                "ticker_id": 42029,
+                "pair": "ELF/ETH",
+                "price": 0.000475,
+                "volume_percentage": 0.00001873682378881133,
+                "rank": 112
+            },
+            {
+                "ticker_id": 42134,
+                "pair": "HC/BTC",
+                "price": 0.000189,
+                "volume_percentage": 0.000008251988219618464,
+                "rank": 113
+            },
+            {
+                "ticker_id": 42469,
+                "pair": "ZIL/ETH",
+                "price": 0.00003,
+                "volume_percentage": 0,
+                "rank": 114
+            },
+            {
+                "ticker_id": 42281,
+                "pair": "VIB/BTC",
+                "price": 0.00000252,
+                "volume_percentage": 0,
+                "rank": 115
+            },
+            {
+                "ticker_id": 42153,
+                "pair": "UGC/USDT",
+                "price": 0.00291,
+                "volume_percentage": 0,
+                "rank": 116
+            },
+            {
+                "ticker_id": 42136,
+                "pair": "AAC/ETH",
+                "price": 0.00001153,
+                "volume_percentage": 0,
+                "rank": 117
+            },
+            {
+                "ticker_id": 42069,
+                "pair": "ELF/USDT",
+                "price": 0.0887,
+                "volume_percentage": 0,
+                "rank": 118
+            },
+            {
+                "ticker_id": 42052,
+                "pair": "SWFTC/USDT",
+                "price": 0.001211,
+                "volume_percentage": 0,
+                "rank": 119
+            },
+            {
+                "ticker_id": 42443,
+                "pair": "MKR/BTC",
+                "price": 0.056,
+                "volume_percentage": 0,
+                "rank": 120
+            },
+            {
+                "ticker_id": 42401,
+                "pair": "DOGE/USDT",
+                "price": 0.00265,
+                "volume_percentage": 0,
+                "rank": 121
+            },
+            {
+                "ticker_id": 42152,
+                "pair": "UGC/BTC",
+                "price": 3.11e-7,
+                "volume_percentage": 0,
+                "rank": 122
+            },
+            {
+                "ticker_id": 42135,
+                "pair": "NAS/BTC",
+                "price": 0.000063,
+                "volume_percentage": 0,
+                "rank": 123
+            },
+            {
+                "ticker_id": 42119,
+                "pair": "BKX/USDT",
+                "price": 0.0064,
+                "volume_percentage": 0,
+                "rank": 124
+            },
+            {
+                "ticker_id": 42068,
+                "pair": "BCD/USDT",
+                "price": 0.519,
+                "volume_percentage": 0,
+                "rank": 125
+            },
+            {
+                "ticker_id": 42035,
+                "pair": "TRIO/BTC",
+                "price": 2.18e-7,
+                "volume_percentage": 0,
+                "rank": 126
+            },
+            {
+                "ticker_id": 42442,
+                "pair": "MKR/USDT",
+                "price": 525.7,
+                "volume_percentage": 0,
+                "rank": 127
+            },
+            {
+                "ticker_id": 42279,
+                "pair": "ICX/ETH",
+                "price": 0.0009,
+                "volume_percentage": 0,
+                "rank": 128
+            },
+            {
+                "ticker_id": 42151,
+                "pair": "EDO/ETH",
+                "price": 0.00207,
+                "volume_percentage": 0,
+                "rank": 129
+            },
+            {
+                "ticker_id": 42118,
+                "pair": "KAN/BTC",
+                "price": 3.21e-7,
+                "volume_percentage": 0,
+                "rank": 130
+            },
+            {
+                "ticker_id": 42099,
+                "pair": "WIN/USDT",
+                "price": 0.00142,
+                "volume_percentage": 0,
+                "rank": 131
+            },
+            {
+                "ticker_id": 42034,
+                "pair": "SWFTC/BTC",
+                "price": 1.29e-7,
+                "volume_percentage": 0,
+                "rank": 132
+            },
+            {
+                "ticker_id": 42018,
+                "pair": "IOST/BTC",
+                "price": 5.8e-7,
+                "volume_percentage": 0,
+                "rank": 133
+            },
+            {
+                "ticker_id": 43746,
+                "pair": "LBA/USDT",
+                "price": 0.0157,
+                "volume_percentage": 0,
+                "rank": 134
+            },
+            {
+                "ticker_id": 42441,
+                "pair": "CAI/USDT",
+                "price": 0.0001057,
+                "volume_percentage": 0,
+                "rank": 135
+            },
+            {
+                "ticker_id": 42399,
+                "pair": "WAVES/USDT",
+                "price": 0.82,
+                "volume_percentage": 0,
+                "rank": 136
+            },
+            {
+                "ticker_id": 42150,
+                "pair": "OF/USDT",
+                "price": 0.000215,
+                "volume_percentage": 0,
+                "rank": 137
+            },
+            {
+                "ticker_id": 42133,
+                "pair": "HC/USDT",
+                "price": 1.755,
+                "volume_percentage": 0,
+                "rank": 138
+            },
+            {
+                "ticker_id": 42117,
+                "pair": "CHAT/BTC",
+                "price": 2.43e-7,
+                "volume_percentage": 0,
+                "rank": 139
+            },
+            {
+                "ticker_id": 42098,
+                "pair": "WIN/BTC",
+                "price": 1.511e-7,
+                "volume_percentage": 0,
+                "rank": 140
+            },
+            {
+                "ticker_id": 42033,
+                "pair": "ZEC/BTC",
+                "price": 0.0041,
+                "volume_percentage": 0,
+                "rank": 141
+            },
+            {
+                "ticker_id": 42017,
+                "pair": "MCO/BTC",
+                "price": 0.000465,
+                "volume_percentage": 0,
+                "rank": 142
+            },
+            {
+                "ticker_id": 43745,
+                "pair": "VSYS/USDT",
+                "price": 0.069,
+                "volume_percentage": 0,
+                "rank": 143
+            },
+            {
+                "ticker_id": 42440,
+                "pair": "CAI/BTC",
+                "price": 1.13e-8,
+                "volume_percentage": 0,
+                "rank": 144
+            },
+            {
+                "ticker_id": 42398,
+                "pair": "MITH/BTC",
+                "price": 0.00000143,
+                "volume_percentage": 0,
+                "rank": 145
+            },
+            {
+                "ticker_id": 42275,
+                "pair": "INT/USDT",
+                "price": 0.0212,
+                "volume_percentage": 0,
+                "rank": 146
+            },
+            {
+                "ticker_id": 42149,
+                "pair": "ACT/USDT",
+                "price": 0.0101,
+                "volume_percentage": 0,
+                "rank": 147
+            },
+            {
+                "ticker_id": 42132,
+                "pair": "WTC/USDT",
+                "price": 0.761,
+                "volume_percentage": 0,
+                "rank": 148
+            },
+            {
+                "ticker_id": 42065,
+                "pair": "DGB/USDT",
+                "price": 0.00741,
+                "volume_percentage": 0,
+                "rank": 149
+            },
+            {
+                "ticker_id": 42048,
+                "pair": "AAC/USDT",
+                "price": 0.00216,
+                "volume_percentage": 0,
+                "rank": 150
+            },
+            {
+                "ticker_id": 42032,
+                "pair": "LSK/BTC",
+                "price": 0.000085,
+                "volume_percentage": 0,
+                "rank": 151
+            },
+            {
+                "ticker_id": 42016,
+                "pair": "SNT/BTC",
+                "price": 0.00000138,
+                "volume_percentage": 0,
+                "rank": 152
+            },
+            {
+                "ticker_id": 43744,
+                "pair": "LBA/BTC",
+                "price": 0.00000165,
+                "volume_percentage": 0,
+                "rank": 153
+            },
+            {
+                "ticker_id": 42397,
+                "pair": "ALGO/BTC",
+                "price": 0.0000243,
+                "volume_percentage": 0,
+                "rank": 154
+            },
+            {
+                "ticker_id": 42274,
+                "pair": "INT/BTC",
+                "price": 0.00000227,
+                "volume_percentage": 0,
+                "rank": 155
+            },
+            {
+                "ticker_id": 42131,
+                "pair": "BTT/USDT",
+                "price": 0.000472,
+                "volume_percentage": 0,
+                "rank": 156
+            },
+            {
+                "ticker_id": 42115,
+                "pair": "CMT/BTC",
+                "price": 0.00000212,
+                "volume_percentage": 0,
+                "rank": 157
+            },
+            {
+                "ticker_id": 42096,
+                "pair": "SSC/BTC",
+                "price": 3.26e-7,
+                "volume_percentage": 0,
+                "rank": 158
+            },
+            {
+                "ticker_id": 42047,
+                "pair": "EGT/USDT",
+                "price": 0.002344,
+                "volume_percentage": 0,
+                "rank": 159
+            },
+            {
+                "ticker_id": 42031,
+                "pair": "AAC/KRW",
+                "price": 2.6,
+                "volume_percentage": 0,
+                "rank": 160
+            },
+            {
+                "ticker_id": 42950,
+                "pair": "LINK/ETH",
+                "price": 0.01478,
+                "volume_percentage": 0,
+                "rank": 161
+            },
+            {
+                "ticker_id": 42273,
+                "pair": "GTO/USDT",
+                "price": 0.0141,
+                "volume_percentage": 0,
+                "rank": 162
+            },
+            {
+                "ticker_id": 42147,
+                "pair": "XUC/USDT",
+                "price": 1.1847,
+                "volume_percentage": 0,
+                "rank": 163
+            },
+            {
+                "ticker_id": 42130,
+                "pair": "BTG/USDT",
+                "price": 8.27,
+                "volume_percentage": 0,
+                "rank": 164
+            },
+            {
+                "ticker_id": 42114,
+                "pair": "BTG/BTC",
+                "price": 0.00088,
+                "volume_percentage": 0,
+                "rank": 165
+            },
+            {
+                "ticker_id": 42095,
+                "pair": "AAC/BTC",
+                "price": 2.32e-7,
+                "volume_percentage": 0,
+                "rank": 166
+            },
+            {
+                "ticker_id": 42660,
+                "pair": "ATOM/BTC",
+                "price": 0.00032811,
+                "volume_percentage": 0,
+                "rank": 167
+            },
+            {
+                "ticker_id": 42431,
+                "pair": "OF/BTC",
+                "price": 2.3e-8,
+                "volume_percentage": 0,
+                "rank": 168
+            },
+            {
+                "ticker_id": 42290,
+                "pair": "ATOM/USDT",
+                "price": 3.07,
+                "volume_percentage": 0,
+                "rank": 169
+            },
+            {
+                "ticker_id": 42272,
+                "pair": "YOU/USDT",
+                "price": 0.05342,
+                "volume_percentage": 0,
+                "rank": 170
+            },
+            {
+                "ticker_id": 42146,
+                "pair": "XUC/BTC",
+                "price": 0.00012616,
+                "volume_percentage": 0,
+                "rank": 171
+            },
+            {
+                "ticker_id": 42113,
+                "pair": "BLOC/BTC",
+                "price": 2.7e-7,
+                "volume_percentage": 0,
+                "rank": 172
+            },
+            {
+                "ticker_id": 42659,
+                "pair": "WAVES/ETH",
+                "price": 0.0044,
+                "volume_percentage": 0,
+                "rank": 173
+            },
+            {
+                "ticker_id": 42410,
+                "pair": "BLOC/USDT",
+                "price": 0.00255,
+                "volume_percentage": 0,
+                "rank": 174
+            },
+            {
+                "ticker_id": 42271,
+                "pair": "GTO/BTC",
+                "price": 0.00000151,
+                "volume_percentage": 0,
+                "rank": 175
+            },
+            {
+                "ticker_id": 42145,
+                "pair": "TRUE/ETH",
+                "price": 0.00166,
+                "volume_percentage": 0,
+                "rank": 176
+            },
+            {
+                "ticker_id": 42128,
+                "pair": "ICX/USDT",
+                "price": 0.1679,
+                "volume_percentage": 0,
+                "rank": 177
+            },
+            {
+                "ticker_id": 42112,
+                "pair": "BKX/BTC",
+                "price": 6.9e-7,
+                "volume_percentage": 0,
+                "rank": 178
+            },
+            {
+                "ticker_id": 42093,
+                "pair": "ACT/BTC",
+                "price": 0.00000107,
+                "volume_percentage": 0,
+                "rank": 179
+            },
+            {
+                "ticker_id": 42044,
+                "pair": "IOST/USDT",
+                "price": 0.00542,
+                "volume_percentage": 0,
+                "rank": 180
+            },
+            {
+                "ticker_id": 42028,
+                "pair": "WAVES/BTC",
+                "price": 0.000088,
+                "volume_percentage": 0,
+                "rank": 181
+            },
+            {
+                "ticker_id": 42636,
+                "pair": "LINK/USDT",
+                "price": 2.6846,
+                "volume_percentage": 0,
+                "rank": 182
+            },
+            {
+                "ticker_id": 42409,
+                "pair": "MVP/USDT",
+                "price": 0.000716,
+                "volume_percentage": 0,
+                "rank": 183
+            },
+            {
+                "ticker_id": 42288,
+                "pair": "FTM/USDT",
+                "price": 0.013,
+                "volume_percentage": 0,
+                "rank": 184
+            },
+            {
+                "ticker_id": 42270,
+                "pair": "MITH/ETH",
+                "price": 0.000074,
+                "volume_percentage": 0,
+                "rank": 185
+            },
+            {
+                "ticker_id": 42127,
+                "pair": "CMT/USDT",
+                "price": 0.0198,
+                "volume_percentage": 0,
+                "rank": 186
+            },
+            {
+                "ticker_id": 42059,
+                "pair": "SNT/USDT",
+                "price": 0.0129,
+                "volume_percentage": 0,
+                "rank": 187
+            },
+            {
+                "ticker_id": 42635,
+                "pair": "R/USDT",
+                "price": 0.044,
+                "volume_percentage": 0,
+                "rank": 188
+            },
+            {
+                "ticker_id": 42408,
+                "pair": "UTK/USDT",
+                "price": 0.0217,
+                "volume_percentage": 0,
+                "rank": 189
+            },
+            {
+                "ticker_id": 42287,
+                "pair": "RNT/USDT",
+                "price": 0.0115,
+                "volume_percentage": 0,
+                "rank": 190
+            },
+            {
+                "ticker_id": 42159,
+                "pair": "MIOTA/BTC",
+                "price": 0.0000301,
+                "volume_percentage": 0,
+                "rank": 191
+            },
+            {
+                "ticker_id": 42110,
+                "pair": "MOF/USDT",
+                "price": 0.7219,
+                "volume_percentage": 0,
+                "rank": 192
+            },
+            {
+                "ticker_id": 42075,
+                "pair": "XEM/USDT",
+                "price": 0.0425,
+                "volume_percentage": 0,
+                "rank": 193
+            },
+            {
+                "ticker_id": 42042,
+                "pair": "HBAR/USDT",
+                "price": 0.0345,
+                "volume_percentage": 0,
+                "rank": 194
+            },
+            {
+                "ticker_id": 42026,
+                "pair": "XEM/BTC",
+                "price": 0.0000046,
+                "volume_percentage": 0,
+                "rank": 195
+            },
+            {
+                "ticker_id": 42407,
+                "pair": "PRA/USDT",
+                "price": 0.0428,
+                "volume_percentage": 0,
+                "rank": 196
+            },
+            {
+                "ticker_id": 42142,
+                "pair": "ICX/BTC",
+                "price": 0.000018,
+                "volume_percentage": 0,
+                "rank": 197
+            },
+            {
+                "ticker_id": 42107,
+                "pair": "MOF/BTC",
+                "price": 0.00007867,
+                "volume_percentage": 0,
+                "rank": 198
+            },
+            {
+                "ticker_id": 42090,
+                "pair": "ZIP/USDT",
+                "price": 0.000271,
+                "volume_percentage": 0,
+                "rank": 199
+            },
+            {
+                "ticker_id": 42074,
+                "pair": "LRC/USDT",
+                "price": 0.0338,
+                "volume_percentage": 0,
+                "rank": 200
+            },
+            {
+                "ticker_id": 42057,
+                "pair": "FSN/USDT",
+                "price": 0.5978,
+                "volume_percentage": 0,
+                "rank": 201
+            },
+            {
+                "ticker_id": 42041,
+                "pair": "LSK/USDT",
+                "price": 0.79,
+                "volume_percentage": 0,
+                "rank": 202
+            },
+            {
+                "ticker_id": 42025,
+                "pair": "WTC/BTC",
+                "price": 0.000082,
+                "volume_percentage": 0,
+                "rank": 203
+            },
+            {
+                "ticker_id": 42494,
+                "pair": "LAMB/USDT",
+                "price": 0.0362,
+                "volume_percentage": 0,
+                "rank": 204
+            },
+            {
+                "ticker_id": 42406,
+                "pair": "DPY/BTC",
+                "price": 0.0000048,
+                "volume_percentage": 0,
+                "rank": 205
+            },
+            {
+                "ticker_id": 42285,
+                "pair": "LIGHT/BTC",
+                "price": 1.3e-9,
+                "volume_percentage": 0,
+                "rank": 206
+            },
+            {
+                "ticker_id": 42140,
+                "pair": "SOC/BTC",
+                "price": 5.2e-7,
+                "volume_percentage": 0,
+                "rank": 207
+            },
+            {
+                "ticker_id": 42124,
+                "pair": "ABT/USDT",
+                "price": 0.1619,
+                "volume_percentage": 0,
+                "rank": 208
+            },
+            {
+                "ticker_id": 42106,
+                "pair": "YOU/BTC",
+                "price": 0.00000574,
+                "volume_percentage": 0,
+                "rank": 209
+            },
+            {
+                "ticker_id": 42073,
+                "pair": "MITH/USDT",
+                "price": 0.0133,
+                "volume_percentage": 0,
+                "rank": 210
+            },
+            {
+                "ticker_id": 42056,
+                "pair": "TRIO/USDT",
+                "price": 0.00204,
+                "volume_percentage": 0,
+                "rank": 211
+            },
+            {
+                "ticker_id": 42040,
+                "pair": "DASH/USDT",
+                "price": 72.7,
+                "volume_percentage": 0,
+                "rank": 212
+            },
+            {
+                "ticker_id": 42024,
+                "pair": "GAS/BTC",
+                "price": 0.000186,
+                "volume_percentage": 0,
+                "rank": 213
+            },
+            {
+                "ticker_id": 42493,
+                "pair": "EDO/USDT",
+                "price": 0.332,
+                "volume_percentage": 0,
+                "rank": 214
+            },
+            {
+                "ticker_id": 42405,
+                "pair": "DPY/USDT",
+                "price": 0.0452,
+                "volume_percentage": 0,
+                "rank": 215
+            },
+            {
+                "ticker_id": 42156,
+                "pair": "MIOTA/USDT",
+                "price": 0.282,
+                "volume_percentage": 0,
+                "rank": 216
+            },
+            {
+                "ticker_id": 42139,
+                "pair": "SOC/USDT",
+                "price": 0.00514,
+                "volume_percentage": 0,
+                "rank": 217
+            },
+            {
+                "ticker_id": 42123,
+                "pair": "ONT/USDT",
+                "price": 0.8369,
+                "volume_percentage": 0,
+                "rank": 218
+            },
+            {
+                "ticker_id": 42105,
+                "pair": "BTT/BTC",
+                "price": 5.1e-8,
+                "volume_percentage": 0,
+                "rank": 219
+            },
+            {
+                "ticker_id": 42072,
+                "pair": "ZEC/USDT",
+                "price": 38.5,
+                "volume_percentage": 0,
+                "rank": 220
+            },
+            {
+                "ticker_id": 42039,
+                "pair": "MITH/KRW",
+                "price": 15,
+                "volume_percentage": 0,
+                "rank": 221
+            },
+            {
+                "ticker_id": 42492,
+                "pair": "CTXC/ETH",
+                "price": 0.000405,
+                "volume_percentage": 0,
+                "rank": 222
+            },
+            {
+                "ticker_id": 42283,
+                "pair": "RFR/USDT",
+                "price": 0.00085,
+                "volume_percentage": 0,
+                "rank": 223
+            },
+            {
+                "ticker_id": 42155,
+                "pair": "EGT/KRW",
+                "price": 2.2,
+                "volume_percentage": 0,
+                "rank": 224
+            },
+            {
+                "ticker_id": 42138,
+                "pair": "PST/USDT",
+                "price": 0.055,
+                "volume_percentage": 0,
+                "rank": 225
+            },
+            {
+                "ticker_id": 42122,
+                "pair": "CHAT/USDT",
+                "price": 0.00226,
+                "volume_percentage": 0,
+                "rank": 226
+            },
+            {
+                "ticker_id": 42104,
+                "pair": "ONT/BTC",
+                "price": 0.0000894,
+                "volume_percentage": 0,
+                "rank": 227
+            },
+            {
+                "ticker_id": 42071,
+                "pair": "MCO/USDT",
+                "price": 4.32,
+                "volume_percentage": 0,
+                "rank": 228
+            },
+            {
+                "ticker_id": 42054,
+                "pair": "MANA/USDT",
+                "price": 0.0315,
+                "volume_percentage": 0,
+                "rank": 229
+            },
+            {
+                "ticker_id": 42038,
+                "pair": "MANA/BTC",
+                "price": 0.00000339,
+                "volume_percentage": 0,
+                "rank": 230
+            },
+            {
+                "ticker_id": 42022,
+                "pair": "LINK/BTC",
+                "price": 0.000287,
+                "volume_percentage": 0,
+                "rank": 231
+            },
+            {
+                "ticker_id": 42470,
+                "pair": "EDO/BTC",
+                "price": 0.000032,
+                "volume_percentage": 0,
+                "rank": 232
+            },
+            {
+                "ticker_id": 42403,
+                "pair": "ALGO/USDT",
+                "price": 0.228,
+                "volume_percentage": 0,
+                "rank": 233
+            },
+            {
+                "ticker_id": 42282,
+                "pair": "VIB/USDT",
+                "price": 0.0236,
+                "volume_percentage": 0,
+                "rank": 234
+            },
+            {
+                "ticker_id": 42121,
+                "pair": "KAN/USDT",
+                "price": 0.003,
+                "volume_percentage": 0,
+                "rank": 235
+            },
+            {
+                "ticker_id": 42103,
+                "pair": "ABT/BTC",
+                "price": 0.0000174,
+                "volume_percentage": 0,
+                "rank": 236
+            },
+            {
+                "ticker_id": 42053,
+                "pair": "GAS/USDT",
+                "price": 1.74,
+                "volume_percentage": 0,
+                "rank": 237
+            },
+            {
+                "ticker_id": 42037,
+                "pair": "LRC/BTC",
+                "price": 0.00000365,
+                "volume_percentage": 0,
+                "rank": 238
+            }
+        ]
+    }
+]

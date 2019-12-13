@@ -1,0 +1,3 @@
+[
+{"280": [{"ticker_id": 10048, "pair": "BTC/USD", "price": 9347.45, "volume_percentage": 73.13802250477715, "rank": 1}, {"ticker_id": 10049, "pair": "ETH/USD", "price": 186.97, "volume_percentage": 26.754331686268372, "rank": 2}, {"ticker_id": 10046, "pair": "BTC/HKD", "price": 72707, "volume_percentage": 0.0946016512060631, "rank": 3}, {"ticker_id": 10047, "pair": "ETH/HKD", "price": 1462.88, "volume_percentage": 0.013044157748027125, "rank": 4}, {"ticker_id": 20408, "pair": "EOS/HKD", "price": 25.9, "volume_percentage": 0, "rank": 5}, {"ticker_id": 15083, "pair": "NEO/HKD", "price": 120, "volume_percentage": 0, "rank": 6}, {"ticker_id": 10563, "pair": "XPA/ETH", "price": 2.903e-05, "volume_percentage": 0, "rank": 7}]}
+]
