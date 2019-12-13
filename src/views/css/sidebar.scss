@@ -1,0 +1,10 @@
+@import "./variables.scss";
+
+.sideBarMain {
+    display: block;
+    float: left;
+    width: 5vw;
+    min-width: 75px;
+    height: 100vh;
+    background: #0c2461;
+}
