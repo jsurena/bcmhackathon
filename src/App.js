@@ -8,7 +8,7 @@ import './App.css';
 function App() {
   return (
     <Router>
-      <Route path='/superchart' component={MainPage}/>
+      <Route path='/widgets' component={MainPage}/>
       <Route path='/landing' component={HomePage}/>
     </Router> 
   );

@@ -1,7 +1,25 @@
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web&display=swap');
 
-$darkBlue: rgb(9, 37, 63);
-$veryDarkBlue: rgb(5,28,44);
+
 $hoverDarkBlue: #0a3d62;
 $materialShadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 $yellow: #f6b93b;
+$lightBlue: #00C4DC;
+$mediumBlue: #00B7CF;
+$border: rgb(26,88,100);
+$leftGrey: rgb(89,129,148);
+$sidebarBorder: #0091A9;
+
+/*
+Dark Theme Vars
+*/
+
+$darkBlue: rgb(21,34,55);
+$veryDarkBlue: rgb(15,25,40);
+
+/*
+Light Theme Vars
+*/
+
+$lightGrey: rgb(235,242,250);
+$white: #fafafa;

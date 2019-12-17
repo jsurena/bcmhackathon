@@ -1,6 +1,95 @@
 @import "./variables.scss";
 
+.transWidget, .graphContainer {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.lightFont {
+    color: #fafafa
+}
+
+.darkFont {
+    color: #212121;
+}
 
 .background {
-    background: #2C3A47;
+    height: 100vh;
+} 
+
+.bDark {
+    background: $darkBlue;
+}
+ 
+.bLight {
+    background: $lightGrey;
+}
+
+.transWidget {
+    height: 40vh;
+    width: 55vw;
+    margin: auto;
+    display: block;
+    overflow: hidden;
+    overflow-y: scroll;
+    border-radius: 2vh;
+}
+
+.widgetDark {
+    background: $veryDarkBlue;
+}
+
+.widgetLight {
+    background: #fafafa;
+}
+
+.transRow {
+    display: block;
+    width: 62vw;
+    float: left;
+    font-size: 2vh;
+    height: 5vh;
+}
+
+.transRow:first-of-type {
+    padding-top: 1vh;
+}
+
+.transCell {
+    display: block;
+    float: left;
+    padding: 0 0 1vh 0;
+}
+
+.transCell:first-of-type {
+    padding-left: 2vw;
+}
+
+.small {
+    width: 6vw;
+}
+
+.medium {
+    width: 9vw;
+}
+
+.large {
+    width: 13vw;
+}
+
+.rowHeader {
+    font-weight: bolder;
+    border-bottom: 1px solid $sidebarBorder;
+}
+
+.graphContainer {
+    height: 40vh;
+    width: 55vw;
+    margin: 5vh auto 5vh auto;
+    display: block;
+    border-radius: 2vh;
+}
+
+#graph-id-graph-wrapper {
+    display: block;
+    float: right;
 }

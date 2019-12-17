@@ -19,6 +19,7 @@ from api.views import exchangenames
 from api.views import exchangeinfo
 from api.views import exchangeAPI
 from api.views import exchangeNews
+from api.views import getTransactions
 from core.views import index
 
 
@@ -28,5 +29,6 @@ urlpatterns = [
     path("exchangeinfo/", exchangeinfo, name="exchangeinfo"),
     path("exchangenews/", exchangeNews, name="exchangenews"),
     path("exchangeapi/", exchangeAPI, name="exchangeAPI"),
+    path("transactions/", getTransactions, name="transactions"),
     path("", index, name="index")
 ]

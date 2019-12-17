@@ -1,0 +1,41 @@
+Transaction_ID,Customer_ID,Customer_Name,Merchant_ID,Merchant_Name,Amount,Date,Description,Category
+1123456,90388,Elon Musk,4354123,Coinbase-pro,20000,5/1/2018,Deposit,Cryptocurrency
+1123457,90388,Elon Musk,7658881,Binance,50000,5/1/2018,Deposit,Cryptocurrency
+1123458,90388,Elon Musk,1113452,Starbucks,6.56,5/7/2018,No Description available,Food
+1123459,90388,Elon Musk,5452210,Uber X,120,5/14/2018,Too drunk to drive,Transport
+1123460,90388,Elon Musk,4354123,Coinbase-pro,3200,5/22/2018,Deposit,Cryptocurrency
+1123461,90388,Elon Musk,1113452,Starbucks,5.44,5/30/2018,No Description available,Food
+1123462,90388,Elon Musk,9090878,Walgreens,33.2,6/6/2018,No Description available,Other
+1123463,90388,Elon Musk,6661212,Tesla Supercharger,20,6/7/2018,No Description available,Transport
+1123464,90388,Elon Musk,4354123,Coinbase-pro,-9001,6/11/2018,Withdrawal,Cryptocurrency
+1123465,90388,Elon Musk,1113452,Starbucks,3.26,6/13/2018,No Description available,Food
+1123466,90388,Elon Musk,6661212,Tesla Supercharger,20,6/19/2018,No Description available,Transport
+1123467,90388,Elon Musk,7658881,Binance,-25000,6/22/2018,Withdrawal,Cryptocurrency
+1123468,90388,Elon Musk,9090878,Walgreens,12,7/1/2018,No Description available,Other
+1123469,90388,Elon Musk,4354123,Coinbase-pro,-1500,7/6/2018,Withdrawal,Cryptocurrency
+1123470,90388,Elon Musk,5452210,Uber X,215,7/11/2018,Too drunk to drive,Transport
+1123471,90388,Elon Musk,1113452,Starbucks,7.29,7/14/2018,No Description available,Food
+1123472,90388,Elon Musk,5452210,Uber X,74.44,7/19/2018,Too drunk to drive,Transport
+1123473,90388,Elon Musk,7658881,Binance,-32000,7/22/2018,Withdrawal,Cryptocurrency
+1123474,90388,Elon Musk,4354123,Coinbase-pro,14200,7/22/2018,No Description available,Cryptocurrency
+1123475,90388,Elon Musk,4354123,Coinbase-pro,-40000,7/22/2018,Withdrawal,Cryptocurrency
+1123476,11447,Jeff Bezos,7810912,Jaeger-LeCoultre,1089498.91,5/5/2018,Rich ppl stuff,Luxury
+1123477,11447,Jeff Bezos,7810913,Patek Philippe SA,1634250,5/5/2018,Rich ppl stuff,Luxury
+1123478,11447,Jeff Bezos,6754101,Ferrari Dealership,544356,5/6/2018,Ferrari 812 Superfast,Luxury
+1123479,11447,Jeff Bezos,3447601,Peter Luger,3500,5/6/2018,Rich ppl stuff,Food
+1123480,11447,Jeff Bezos,1000100,Delta Private Charter,32000,5/14/2018,Rich ppl stuff,Transport
+1123481,11447,Jeff Bezos,7658881,Binance,225000,5/24/2018,Deposit,Cryptocurrency
+1123482,11447,Jeff Bezos,3450011,The Mark Hotel,25000,5/29/2018,No Description available,Lodging
+1123483,11447,Jeff Bezos,3447601,Peter Luger,2250,6/12/2018,Rich ppl stuff,Food
+1123484,11447,Jeff Bezos,6754109,Mclaren Dealership,467625,6/18/2018,Mclaren 720s,Luxury
+1123485,11447,Jeff Bezos,3452341,Cornelia Spa,880,6/21/2018,No Description available,Other
+1123486,11447,Jeff Bezos,4354123,Coinbase-pro,600000,7/1/2018,Deposit,Cryptocurrency
+1123487,11447,Jeff Bezos,8170912,Okex,1000000,7/3/2018,Deposit,Cryptocurrency
+1123488,11447,Jeff Bezos,3447601,Peter Luger,1200,7/8/2018,Rich ppl stuff,Food
+1123489,11447,Jeff Bezos,3120441,Melinda Gates Foundation,550000,7/15/2018,No Description available,Charity
+1123490,11447,Jeff Bezos,7658881,Binance,240000,7/29/2018,Deposit,Cryptocurrency
+1123491,11447,Jeff Bezos,7658882,bitFlyer,-340000,8/1/2018,Withdrawal,Cryptocurrency
+1123492,11447,Jeff Bezos,1000100,Delta Private Charter,41000,8/8/2018,Rich ppl stuff,Transport
+1123493,11447,Jeff Bezos,3447601,Peter Luger,1400,8/8/2018,Rich ppl stuff,Food
+1123494,11447,Jeff Bezos,4354123,Coinbase-pro,130000,7/29/2018,Deposit,Cryptocurrency
+1123495,11447,Jeff Bezos,7658881,Binance,-1150000,7/29/2018,Withdrawal,Cryptocurrency

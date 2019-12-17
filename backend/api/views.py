@@ -19,6 +19,10 @@ import json
 import os
 
 filepath = os.path.dirname(os.path.abspath(__file__)) + "\\src\\exchanges\\"
+transactionPath = os.path.dirname(os.path.abspath(__file__)) + "\\src\\trans.json"
+with open(transactionPath, 'r') as tp:
+    transactions = json.load(tp)
+
 BASE = 'https://coinmarketcap.com'
 BASE = 'https://next-prod.coinmarketcap.com/'
 CCEL_BASE = 'https://www.cryptocurrencyexchangelist.info'
@@ -68,7 +72,7 @@ def exchangeinfo(request):
                  "BuyWith": ccel["BuyWith"][index], "Safety": ccel["Rating"][index]}
     else:
         ccell = {"Rating": ("High", ["N/A", "N/A", "N/A", "N/A"], [10, 1, 3.5]), "Location": "N/A", "BuyWith": "N/A", "Safety": "N/A"}
-    return Response(status=status.HTTP_200_OK, data={"exchangeInfo": data, "exchangeName": dict(request.query_params)['name'], "ccel": ccell, "certified": certified})
+    return Response(status=status.HTTP_200_OK, data={"exchangeName": dict(request.query_params)['name'], "ccel": ccell, "certified": certified})
 
 
 @api_view(["GET"])
@@ -95,6 +99,11 @@ def exchangeNews(request):
     count = dict(request.query_params)['count'][0]
     news = newsGrab.getHeadlines(exchangeName, response_count=count)
     return JsonResponse(news, safe=False)
+
+@api_view(["GET"])
+def getTransactions(request):
+    global transactions
+    return JsonResponse(transactions)
 
 """
 print("REQUEST BODY: ",dict(request.query_params)['name'][0], "\n END \n")

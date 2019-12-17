@@ -7,8 +7,6 @@ import '../css/burgerStyles.scss'
 /*
     Presentation webpage for codebrokers.
     TODO: 
-        - Make a team logo
-        - Implement a burger menu
         - Implement smooth scroll to hrefs
         - Add content to the webpage
 */
