@@ -1,6 +1,6 @@
 @import "./variables.scss";
 
-.transWidget, .graphContainer {
+.transWidget, .graphContainer, .sideBarMain {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -27,7 +27,7 @@
 .transWidget {
     height: 40vh;
     width: 55vw;
-    margin: auto;
+    margin-left: 13vw;
     display: block;
     overflow: hidden;
     overflow-y: scroll;
@@ -83,13 +83,56 @@
 
 .graphContainer {
     height: 40vh;
-    width: 55vw;
-    margin: 5vh auto 5vh auto;
+    width: 35vw;
+    margin-top: 5vh;
+    margin-left: 13vw;
     display: block;
     border-radius: 2vh;
 }
 
-#graph-id-graph-wrapper {
+.graphHeader {
+    font-weight: bolder;
+    padding-top: 1vh;
+    text-align: center;
     display: block;
-    float: right;
+    width: 20vw;
+    margin: auto;
+    height: 3vh;
+}
+
+.Spacer {
+    display: block;
+    float: left;
+    height: 5vh;
+    width: 90vh;
+    content: " ";
+}
+
+.sideBarMain {
+    display: block;
+    float: left;
+    width: 10vw;
+    min-width: 75px;
+    height: 100vh;
+    background: #273449;
+}
+
+.sideSlot {
+    height: 3vh;
+    width: 80%;
+    color: #212121;
+    display: block;
+    margin: 4vh auto 0 auto;
+    text-align: center;
+    padding: 1vh 0 1vh 0;
+    border-radius: 3vh;
+    background: #1dd1a1;
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
+
+.sideSlot:hover {
+    color: #fff;
 }

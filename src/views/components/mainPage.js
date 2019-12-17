@@ -63,7 +63,7 @@ let MyGraph = (theme, themeState, transactions) => {
             }
             return outputs
         }
-        let names = filterNames(transactions).map(name=>{return {id :name}});
+        let names = filterNames(transactions).map(name=>{return {id :name, symbolType: "square"}});
         let connections = getConnections(transactions, names);
         let exchanges = [], flags={}
         for (let item of connections) {
@@ -92,15 +92,14 @@ let MyGraph = (theme, themeState, transactions) => {
     const myConfig = {
         height: 400,
         width: 800,
-        staticGraphWithDragAndDrop: true,
         nodeHighlightBehavior: true,
         node: {
-            color: "lightgreen",
+            color: "#ff9ff3",
             size: 350,
             fontColor: cols[0],
             fontSize: 16,
             highlightFontSize: 16,
-            highlightStrokeColor: "blue",
+            highlightStrokeColor: "#00d2d3",
         },
         link: {
             color: cols[0],
@@ -110,6 +109,7 @@ let MyGraph = (theme, themeState, transactions) => {
 
     return (
         <div className={"graphContainer " + theme[1]}>
+            <div className={"graphHeader " + theme[2]}>Customer-Exchange Relationship</div>
             <Graph
             id="graph-id" // id is mandatory, if no id is defined rd3g will throw an error
             data={graphData}
@@ -175,11 +175,11 @@ class MainPage extends Component {
         return (
             <div className={"background " + theme[0] + theme[2]}>
                 <div className="sideBarMain">
-                
+        <div className="sideSlot" onClick={()=>this.setState({theme: !this.state.theme})}>{this.state.theme? "Light Theme": "Dark Theme"}</div>
                 </div>
+                <div className="Spacer"></div>
                 {transactionWidget(theme, this.state.transactions)}
                 {MyGraph(theme, this.state.theme, this.state.transactions)}
-                <div onClick={()=>this.setState({theme: !this.state.theme})}>Change Theme</div>
             </div>
         );
     }
