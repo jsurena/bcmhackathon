@@ -6,6 +6,12 @@
     width: 0px;
     background: transparent; /* make scrollbar transparent */
 }
+
+body {
+    color: white;
+    width: 100%;
+    font-size: 2.2vh;
+}
  
 .TopBar {
     top: 0;
@@ -44,6 +50,119 @@
 }
 
 .textBox {
-    height: 30vh;
+    // height: 30vh;
+    // width: 100%;
+    padding: 5vh;
+    line-height: 5vh;
+    text-align: center;
+}
+
+.boxText {
+    width: 50%;
+    margin: auto;
+    line-height: 3vh;
+}
+
+.buttons {
+    padding-top: 3vh;
+}
+
+.btn {
+    height: 10vh;
+    color: white;
+    width: 30vh;
+    border-radius: 15px;
+    margin-bottom: 3vh;
+    margin-right: 6vh;
+    border-color: rgb(15,25,40);
+    border-width: 3px;
+    background-color: rgb(62, 156, 185);
+}
+
+.btn:hover {
+    background-color: rgb(170, 170, 170);
+}
+
+.quote {
+    font-style: italic;
+    font-size: 2.1vh;
+    padding-bottom: 3vh;
+}
+
+.title {
+    font-size: 4vh;
+}
+
+.subtitle {
+    font-size: 2.8vh;
+}
+
+.sectionTitle {
+    text-align: center;
+    font-size: 3.3vh;
+}
+
+.teamInfo {
+    // width: 100%;
+    padding: 5vh;
+}
+
+.profileCard {
+    line-height: 1vh;
+    padding: 3.5vh;
+}
+
+.profileName {
+    font-size: 3vh;
+}
+
+.profileTitle {
+    font-style: italic;
+    padding-bottom: 1.5vh;
+}
+
+.profilePicture {
+    display: inline-block;
+    height: 25vh;
+    width: 25vh;
+}
+
+.picture {
+    object-fit: contain;
+    height: 100%;
     width: 100%;
+    vertical-align: middle;
+}
+
+#logo {
+    display: block;
+    height: 30vh;
+    width: 30vh;
+    padding-top: 7vh;
+    margin: auto;
+}
+
+.logo {
+    object-fit: contain;
+    height: 100%;
+    width: 100%;
+}
+
+.tool {
+    height: 20vh;
+    width: 20vh;
+    padding: 4.5vh;
+}
+
+.toolText {
+    font-size: 3.5vh;
+}
+
+#tool {
+    text-align: center;
+}
+
+.content {
+    display: inline-block;
+    vertical-align: middle;
 }
