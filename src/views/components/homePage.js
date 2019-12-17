@@ -112,7 +112,10 @@ class Homepage extends Component {
                             <p>
                                 <h3 className="profileName">Amber Chowdhury</h3>
                                 <h4 className="profileTitle">Data Specialist</h4>
-                                <div className="proDes">No data escapes Amber's Keen Eye</div>
+                                <div className="proDes">Amber is a Staff in the FSO Technology Advisory Program (TAP). She graduated from 
+                                Binghamton University with a degree in Managament Information Systems. Amber enjoys sifting through data
+                                and being able to see how different information comes together to build a bigger picture. She also takes
+                                pride in being able to visualize data in a manner that's easy to understand.</div>
                             </p>
                         </div>
                     </div>
@@ -121,7 +124,10 @@ class Homepage extends Component {
                         <div className="content">
                                 <h3 className="profileName">Rachel Hayden</h3>
                                 <h4 className="profileTitle">Mockup Design Guru</h4>
-                                <div className="proDes">Rachel's abilities lie within identifying and refining the details</div>
+                                <div className="proDes">Rachel is a Staff in the FSO Technology Advisory Program (TAP). She graduated from
+                                Syracuse University with a double major in Finance and Information Management and Technology. Rachel likes
+                                to piece together information and design in a way that best displays the narrative. She also has financial
+                                knowledge that helped to drive our brainstorming.</div>
                         </div>
                     </div>
                     <div className="profileCard leftPro">
@@ -129,7 +135,10 @@ class Homepage extends Component {
                             <p>
                                 <h3 className="profileName">Alex Johnson</h3>
                                 <h4 className="profileTitle">Visionary Extraordinaire</h4>
-                                <div className="proDes">Alex has a talent for laying out a roadmat for an established product</div>
+                                <div className="proDes">Alex is a Staff in the FSO Technology Advisory Program (TAP). She graduated from
+                                Lehigh University with a Bachelor of Science in Computer Science, Engineering and Psychology. Alex has a talent
+                                for futuristic thinking and roadmapping for developing products. Like Amber, Alex is capable of taking data
+                                and making it visually appealing.</div>
                             </p>
                         </div>
                     </div>
@@ -138,7 +147,10 @@ class Homepage extends Component {
                             <p>
                                 <h3 className="profileName">Jean-Sebastien Surena</h3>
                                 <h4 className="profileTitle">Fullstack Developer, Story Teller</h4>
-                                <div className="proDes">The man, the myth, the legend</div>
+                                <div className="proDes">Jean is a Staff in the FSO Technology Advisory Program (TAP). He graduated from
+                                Baruch College with a degree in Computer Information Systems and Cybersecurity. Jean is a developer who
+                                loves seeing how technology can play a role in improving people's quality of life. He is also a believer 
+                                in the power of stories and their ability to carry across ideas.</div>
                             </p>
                         </div>
                     </div>
@@ -147,7 +159,11 @@ class Homepage extends Component {
                             <p>
                                 <h3 className="profileName">Zeyaam Shahid</h3>
                                 <h4 className="profileTitle">Team Leader, Fullstack Developer, Designer</h4>
-                                <div className="proDes">A jack (& master) of all trades, a wizard with a keyboard and Picasso with colors</div>
+                                <div className="proDes">Zeyaam is a Staff in the FSO Technology Advisory Program (TAP). He graduated from
+                                Baruch College with a degree in Computer Information Systems. Zeyaam is a strong fullstack web developer
+                                who loves putting together applications, front to back. He takes pride in being able to back up an aesthetic 
+                                with a fully operational backend. 
+                                </div>
                             </p>
                         </div>
                     </div>
